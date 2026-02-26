@@ -1,7 +1,8 @@
 flask
 flask-cors
 gunicorn
+sqlalchemy
+flask-sqlalchemy
+passlib
 pillow
 numpy
-sqlalchemy
-passlib[bcrypt]
